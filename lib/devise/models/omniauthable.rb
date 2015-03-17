@@ -6,7 +6,7 @@ module Devise
     #
     # == Options
     #
-    # Oauthable adds the following options to devise_for:
+    # Omniauthable adds the following options to devise_for:
     #
     #   * +omniauth_providers+: Which providers are available to this model. It expects an array:
     #
